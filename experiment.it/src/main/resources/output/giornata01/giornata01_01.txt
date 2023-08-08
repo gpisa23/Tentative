@@ -1,0 +1,10 @@
+2023-08-09 00:26:54
+Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana
+P 1 1 1 2
+2 1 P 2 1
+
+
+--- Con altro metodo ---
+Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana
+2 P 2 1 P con probabilita: 0.004081032210072621
+

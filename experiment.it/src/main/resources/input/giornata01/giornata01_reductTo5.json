@@ -1,0 +1,87 @@
+[
+	{
+		"evento": "Empoli - Verona",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2.3
+			},
+			{
+				"esito": "P",
+				"quota": 3.1
+			},
+			{
+				"esito": "2",
+				"quota": 2.9
+			} 
+		]
+	},
+	{
+		"evento": "Frosinone - Napoli",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 7
+			},
+			{
+				"esito": "P",
+				"quota": 4.5
+			},
+			{
+				"esito": "2",
+				"quota": 1.38
+			} 
+		]
+	},
+	{
+		"evento": "Genoa - Fiorentina",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 3.1
+			},
+			{
+				"esito": "P",
+				"quota": 3.2
+			},
+			{
+				"esito": "2",
+				"quota": 2.15
+			}
+		]
+	},
+	{
+		"evento": "Inter - Monza",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.34
+			},
+			{
+				"esito": "P",
+				"quota": 4.8
+			},
+			{
+				"esito": "2",
+				"quota": 8
+			}
+		]
+	},
+	{
+		"evento": "Roma - Salernitana",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.38
+			},
+			{
+				"esito": "P",
+				"quota": 4.2
+			},
+			{
+				"esito": "2",
+				"quota": 8
+			}
+		]
+	}
+]
