@@ -68,9 +68,8 @@ public class App {
 		System.out.println("W I L L K O M M E N !\n");
 		// Inizio recuper match
 		System.out.println("Recupero matches... \n");
-		List<Match> matches = om.readValue(new File(Constants.PATH_TO_READ_FROM),
-				new TypeReference<List<Match>>() {
-				});
+		List<Match> matches = om.readValue(new File(Constants.PATH_TO_READ_FROM), new TypeReference<List<Match>>() {
+		});
 		// Stampa alcuni valori di utilità
 		// match recuperati
 		System.out.println("Match recuperati: " + matches.size());
@@ -164,26 +163,28 @@ public class App {
 			System.out.println(s);
 		}
 		// salvo in file con timestamp
-		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-		String timeStampString = dateFormat.format(new Date());
-		System.out.println("TimeStamp corrente: " + timeStampString);
+		if (Constants.PRINT) {
+			SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+			String timeStampString = dateFormat.format(new Date());
+			System.out.println("TimeStamp corrente: " + timeStampString);
 
-		try (BufferedWriter writer = new BufferedWriter(new FileWriter(Constants.PATH_TO_WRITE_INTO, true))) {
-			writer.write(timeStampString);
-			writer.newLine();
-			writer.write("Broker: " + Constants.BROKER);
-			writer.newLine();
-			writer.write(ordine);
-			writer.newLine();
-			// Scrittura delle stringhe nel file, una per riga
-			for (String stringa : combinazioniOrdinate) {
-				writer.write(stringa);
-				writer.newLine(); // Vai alla riga successiva
+			try (BufferedWriter writer = new BufferedWriter(new FileWriter(Constants.PATH_TO_WRITE_INTO, true))) {
+				writer.write(timeStampString);
+				writer.newLine();
+				writer.write("Broker: " + Constants.BROKER);
+				writer.newLine();
+				writer.write(ordine);
+				writer.newLine();
+				// Scrittura delle stringhe nel file, una per riga
+				for (String stringa : combinazioniOrdinate) {
+					writer.write(stringa);
+					writer.newLine(); // Vai alla riga successiva
+				}
+				writer.newLine();
+				System.out.println("Le stringhe sono state salvate nel file: " + Constants.PATH_TO_WRITE_INTO);
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
-			writer.newLine();
-			System.out.println("Le stringhe sono state salvate nel file: " + Constants.PATH_TO_WRITE_INTO);
-		} catch (IOException e) {
-			e.printStackTrace();
 		}
 		// uso Apache Common Math
 		System.out.println("\nE X T R A \n");
@@ -200,12 +201,12 @@ public class App {
 		System.out.println("Media: " + mediaA);
 		System.out.println("Deviazione Standard: " + deviazioneStandardA);
 		System.out.println("Mediana: " + medianaA);
-		
+
 		KolmogorovSmirnovTest test = new KolmogorovSmirnovTest();
-		
+
 		double pValue = test.kolmogorovSmirnovStatistic(new NormalDistribution(), dati);
 		System.out.println("p-value: " + pValue);
-		if(pValue < 0.05) {
+		if (pValue < 0.05) {
 			System.out.println("I dati non seguono una distribuzione normale");
 		} else {
 			System.out.println("I dati seguono una distribuzione normale");
