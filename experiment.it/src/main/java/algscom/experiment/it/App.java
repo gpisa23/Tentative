@@ -30,6 +30,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import algscom.experiment.it.logic.ProbabilitaLogic;
 import algscom.experiment.it.model.Match;
 import algscom.experiment.it.model.Quota;
+import algscom.experiment.it.util.Constants;
 
 public class App {
 
@@ -67,10 +68,7 @@ public class App {
 		System.out.println("W I L L K O M M E N !\n");
 		// Inizio recuper match
 		System.out.println("Recupero matches... \n");
-//		List<Match> matches = om.readValue(new File("src/main/resources/input/giornata01/giornata1.json"),
-//				new TypeReference<List<Match>>() {
-//				});
-		List<Match> matches = om.readValue(new File("src/main/resources/input/giornata01/giornata01_reductTo5.json"),
+		List<Match> matches = om.readValue(new File(Constants.PATH_TO_READ_FROM),
 				new TypeReference<List<Match>>() {
 				});
 		// Stampa alcuni valori di utilità
@@ -169,10 +167,11 @@ public class App {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		String timeStampString = dateFormat.format(new Date());
 		System.out.println("TimeStamp corrente: " + timeStampString);
-		String percorsoFile = "src/main/resources/output/giornata01/giornata01_01.txt";
 
-		try (BufferedWriter writer = new BufferedWriter(new FileWriter(percorsoFile, true))) {
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(Constants.PATH_TO_WRITE_INTO, true))) {
 			writer.write(timeStampString);
+			writer.newLine();
+			writer.write("Broker: " + Constants.BROKER);
 			writer.newLine();
 			writer.write(ordine);
 			writer.newLine();
@@ -182,7 +181,7 @@ public class App {
 				writer.newLine(); // Vai alla riga successiva
 			}
 			writer.newLine();
-			System.out.println("Le stringhe sono state salvate nel file: " + percorsoFile);
+			System.out.println("Le stringhe sono state salvate nel file: " + Constants.PATH_TO_WRITE_INTO);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

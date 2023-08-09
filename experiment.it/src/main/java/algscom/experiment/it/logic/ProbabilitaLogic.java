@@ -21,6 +21,7 @@ import algscom.experiment.it.model.MatchConProb;
 import algscom.experiment.it.model.Quota;
 import algscom.experiment.it.model.QuotaConProb;
 import algscom.experiment.it.model.QuotaProb;
+import algscom.experiment.it.util.Constants;
 
 public class ProbabilitaLogic {
 	
@@ -162,11 +163,9 @@ public class ProbabilitaLogic {
 		}
 		
 		//salva in file
-		String percorsoFile = "src/main/resources/output/giornata01/giornata01_01.txt";
-
-		try (BufferedWriter writer = new BufferedWriter(new FileWriter(percorsoFile, true))) {
-			writer.newLine();
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(Constants.PATH_TO_WRITE_INTO, true))) {
 			writer.write("--- Con altro metodo ---");
+			writer.newLine();
 			writer.newLine();
 			writer.write(ordine);
 			writer.newLine();

@@ -1,26 +1,63 @@
-2023-08-09 00:25:26
+2023-08-09 11:52:53
+Broker: Betfair
 Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana Sassuolo - Atalanta Lecce - Lazio Udinese - Juventus Torino - Cagliari Bologna - Milan
-P 1 P P P P 2 P 1 P
-P 1 2 P 2 P 2 1 1 2
-P P 1 1 2 P 1 2 2 1
-P P P P 1 1 1 P 2 1
-P P P P 1 P P P 2 1
-2 1 1 P P 1 P 1 1 2
-2 1 1 P 2 1 2 2 1 1
-2 1 1 2 P 1 2 2 P 2
-2 2 2 P 2 1 1 1 P 1
-2 2 2 P 2 P P 1 P 1
-
+1 1 1 P 2 P 2 2 P 2
+1 1 P P 2 P 2 2 P 2
+1 P 2 P 2 1 2 P 2 2
+P 1 1 P P 1 P 2 P 2
+P 1 P P P 1 P 2 P 2
+P 2 1 P 2 P 2 1 P 1
+P 2 P P 2 P 2 1 P 1
+2 1 2 P P 1 P P 1 1
+2 P 1 P 1 P 1 P 2 1
+2 P P P 1 P 1 P 2 1
 
 --- Con altro metodo ---
+
 Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana Sassuolo - Atalanta Lecce - Lazio Udinese - Juventus Torino - Cagliari Bologna - Milan
-1 2 2 P P 1 P 2 2 2 con probabilita: 1.6938283474143613E-5
-P 1 2 2 1 2 2 2 1 1 con probabilita: 1.6931062398180055E-5
-P P 1 1 1 1 P P 2 2 con probabilita: 1.6937467957365844E-5
-P 2 P 1 P 2 1 1 P P con probabilita: 1.693162853986952E-5
-2 1 P 1 1 1 P 2 P P con probabilita: 1.6938311517871543E-5
-2 P P 1 1 2 P 1 P 1 con probabilita: 1.693941319666946E-5
-2 P 2 1 P P 2 1 1 P con probabilita: 1.693535793359228E-5
-2 P 2 1 P P 2 P P 2 con probabilita: 1.693535793359228E-5
-2 2 1 1 P 1 P P P P con probabilita: 1.6938311517871546E-5
+1 P 1 1 P P 2 P 1 1 con probabilita: 1.6932722564328588E-5
+1 P P 1 P P 2 P 1 1 con probabilita: 1.6932722564328588E-5
+1 2 2 2 1 2 1 1 P P con probabilita: 1.6929278144694217E-5
+P 1 2 1 1 2 1 1 2 2 con probabilita: 1.6930746520150234E-5
+P 1 2 P 1 P 2 P 1 2 con probabilita: 1.692069648296188E-5
+P P 1 1 1 1 P P 2 2 con probabilita: 1.6945017603935987E-5
+P P P 1 1 1 P P 2 2 con probabilita: 1.6945017603935987E-5
+P 2 2 P P 2 1 2 2 2 con probabilita: 1.6940860466697515E-5
+P 2 2 2 P P 2 P 1 2 con probabilita: 1.6920696482961877E-5
+2 P 2 1 1 P 1 P P 1 con probabilita: 1.6938967344916574E-5
+2 2 1 1 P 1 P P P P con probabilita: 1.694586154044734E-5
+2 2 P 1 P 1 P P P P con probabilita: 1.694586154044734E-5
+2 2 2 P 1 1 1 1 2 2 con probabilita: 1.6947845079333716E-5
+2 2 2 P 1 P P 1 2 2 con probabilita: 1.6947845079333716E-5
+2 2 2 P 2 2 P P 1 2 con probabilita: 1.693492751448666E-5
+2 2 2 2 2 2 2 2 1 P con probabilita: 1.6934927514486653E-5
+
+2023-08-09 11:57:38
+Broker: Planetwin365
+Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana Sassuolo - Atalanta Lecce - Lazio Udinese - Juventus Torino - Cagliari Bologna - Milan
+1 1 1 2 1 1 1 1 P 2
+1 1 1 2 1 P 2 1 P P
+1 1 2 2 P P 2 2 P P
+1 P P P P 1 2 1 2 2
+P 1 1 P 1 2 1 P 2 1
+P 1 P 2 1 P P 2 P 1
+P P 1 P 2 2 1 2 2 2
+P 2 P P P 1 1 P 2 P
+2 1 1 2 P 2 P 2 P 2
+2 1 P 2 1 P 1 2 P P
+2 1 2 2 1 1 2 1 P 1
+2 P 1 P P 1 P 2 P P
+2 P 2 P 2 1 P 2 2 2
+2 2 P P 2 P 2 1 P 1
+2 2 2 2 P 1 P P 2 P
+
+--- Con altro metodo ---
+
+Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana Sassuolo - Atalanta Lecce - Lazio Udinese - Juventus Torino - Cagliari Bologna - Milan
+P 1 1 1 2 2 P 2 1 2 con probabilita: 1.6936581962746885E-5
+P P 2 2 1 2 1 P 1 2 con probabilita: 1.6933600508152876E-5
+P 2 P 1 P P P 1 P 2 con probabilita: 1.6940113486138906E-5
+P 2 2 P P P 1 P 1 2 con probabilita: 1.6937960310810863E-5
+2 1 1 1 1 P 1 P 1 P con probabilita: 1.6929770910823886E-5
+2 P P 1 P 1 P 2 1 P con probabilita: 1.6931813442027506E-5
 
