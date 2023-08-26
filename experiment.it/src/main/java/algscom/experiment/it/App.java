@@ -27,6 +27,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import algscom.experiment.it.logic.CheckLogic;
 import algscom.experiment.it.logic.ProbabilitaLogic;
 import algscom.experiment.it.model.Match;
 import algscom.experiment.it.model.Quota;
@@ -127,7 +128,7 @@ public class App {
 			sommaScartiQuad += scarto * scarto;
 		}
 		Double deviazioneStandard = Math.sqrt(sommaScartiQuad / (prodotti.size() - 1));
-		System.out.println("La deviazione standard e\': " + deviazioneStandard + "\n");
+		System.out.println("La deviazione standard e\': " + deviazioneStandard);
 		// Calcolo mediana
 		Double[] datiDouble = new Double[prodotti.values().toArray().length];
 		prodotti.values().toArray(datiDouble);
@@ -140,7 +141,12 @@ public class App {
 			int index = (dim + 1) / 2;
 			mediana = datiDouble[index];
 		}
-		System.out.println("Mediana: " + mediana);
+		System.out.println("Mediana: " + mediana + "\n");
+		if(Constants.CHECK) {
+			CheckLogic.check(Constants.TO_CHECK, prodotti, media, mediana, deviazioneStandard, matches.size());
+			ProbabilitaLogic.conProbabilita(matches, costNorm);
+			return;
+		}
 		// Calcolo e stampo le combinazioni
 		System.out.println("Le combinazioni venute fuori sono:\n");
 		System.out.println(ordine);

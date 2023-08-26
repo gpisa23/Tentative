@@ -61,3 +61,98 @@ P 2 2 P P P 1 P 1 2 con probabilita: 1.6937960310810863E-5
 2 1 1 1 1 P 1 P 1 P con probabilita: 1.6929770910823886E-5
 2 P P 1 P 1 P 2 1 P con probabilita: 1.6931813442027506E-5
 
+2023-08-11 23:15:20
+Broker: Betfair
+Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana Sassuolo - Atalanta Lecce - Lazio Udinese - Juventus Torino - Cagliari Bologna - Milan
+1 1 2 2 2 1 2 2 P 2
+1 P 1 2 2 P 2 2 P 2
+1 2 P P P P 1 1 2 1
+P 1 P 2 1 P 1 P 1 1
+2 1 P 2 1 P 1 P 1 1
+
+--- Con altro metodo ---
+
+Empoli - Verona Frosinone - Napoli Genoa - Fiorentina Inter - Monza Roma - Salernitana Sassuolo - Atalanta Lecce - Lazio Udinese - Juventus Torino - Cagliari Bologna - Milan
+1 1 1 2 1 2 1 2 1 2 con probabilita: 1.6983483383684164E-5
+1 1 1 2 1 2 2 2 1 1 con probabilita: 1.6983483383684164E-5
+1 1 P 2 1 2 P 2 1 2 con probabilita: 1.688298939916533E-5
+1 1 P 2 1 2 2 2 1 P con probabilita: 1.6882989399165327E-5
+1 1 2 1 1 P 1 2 2 1 con probabilita: 1.6983937169625124E-5
+1 1 2 1 P 2 P P 1 P con probabilita: 1.6890818794758014E-5
+1 1 2 1 2 1 1 2 1 2 con probabilita: 1.695531840294837E-5
+1 1 2 1 2 1 2 P 1 2 con probabilita: 1.698140350818368E-5
+1 1 2 1 2 1 2 2 1 1 con probabilita: 1.6955318402948365E-5
+1 P 1 1 1 1 P 1 P P con probabilita: 1.6919200564930253E-5
+1 P 1 1 2 P 1 2 1 2 con probabilita: 1.695531840294837E-5
+1 P 1 1 2 P 2 P 1 2 con probabilita: 1.698140350818368E-5
+1 P 1 1 2 P 2 2 1 1 con probabilita: 1.6955318402948365E-5
+1 P 1 1 2 2 1 2 1 P con probabilita: 1.6985649920663837E-5
+1 P 1 1 2 2 P 2 1 1 con probabilita: 1.6985649920663837E-5
+1 P P 1 P 2 1 P 1 P con probabilita: 1.6890818794758018E-5
+1 P P 1 P 2 P P 1 1 con probabilita: 1.6890818794758014E-5
+1 P P 1 2 2 P 2 1 P con probabilita: 1.6885143116399562E-5
+1 2 1 1 2 1 1 1 1 1 con probabilita: 1.689476369436641E-5
+1 2 1 P P P 1 2 1 P con probabilita: 1.6918930777157954E-5
+1 2 1 P P P P P 1 2 con probabilita: 1.6944959901430507E-5
+1 2 1 P P P P 2 1 1 con probabilita: 1.691893077715795E-5
+1 2 1 P P P 2 P 1 P con probabilita: 1.694495990143051E-5
+1 2 1 P P 2 P P 1 P con probabilita: 1.6975272888731813E-5
+1 2 1 2 1 1 1 P P 2 con probabilita: 1.691704250363371E-5
+1 2 1 2 1 1 1 2 P 1 con probabilita: 1.689105626322874E-5
+1 2 1 2 1 1 2 P P 1 con probabilita: 1.6917042503633714E-5
+1 2 P 1 P P P 1 2 2 con probabilita: 1.697158199082788E-5
+1 2 P 1 P P 2 1 2 P con probabilita: 1.6971581990827883E-5
+1 2 P P 1 P 1 2 2 P con probabilita: 1.6967857702482295E-5
+1 2 P P 1 P P 2 2 1 con probabilita: 1.6967857702482292E-5
+1 2 P P P 1 1 P 1 2 con probabilita: 1.6944959901430507E-5
+1 2 P P P 1 1 2 1 1 con probabilita: 1.691893077715795E-5
+1 2 P P P 1 2 P 1 1 con probabilita: 1.6944959901430503E-5
+1 2 P P 2 1 P 2 1 2 con probabilita: 1.6939266030495882E-5
+1 2 P P 2 1 2 2 1 P con probabilita: 1.6939266030495882E-5
+1 2 P 2 1 P 1 P 1 P con probabilita: 1.6958260497899445E-5
+1 2 P 2 1 P P P 1 1 con probabilita: 1.6958260497899445E-5
+1 2 2 P P 1 2 1 P 2 con probabilita: 1.690377423500341E-5
+1 2 2 2 1 P P 1 P 2 con probabilita: 1.691704250363371E-5
+1 2 2 2 1 P 2 1 P P con probabilita: 1.691704250363371E-5
+1 2 2 2 1 2 P 1 P P con probabilita: 1.6947305549257386E-5
+P 1 1 1 P P P 2 1 2 con probabilita: 1.693997422339819E-5
+P 1 1 1 P P 2 2 1 P con probabilita: 1.693997422339819E-5
+P 1 1 1 P 2 P 2 1 P con probabilita: 1.697027829177636E-5
+P 1 1 P 1 2 2 1 1 2 con probabilita: 1.695291311359353E-5
+P 1 P 1 P 1 1 2 1 2 con probabilita: 1.6939974223398187E-5
+P 1 P 1 P 1 2 P 1 2 con probabilita: 1.6966035722203417E-5
+P 1 P 1 P 1 2 2 1 1 con probabilita: 1.6939974223398187E-5
+P 1 2 1 1 P 1 1 1 1 con probabilita: 1.6917749767419964E-5
+P 1 2 P 1 1 2 2 P 2 con probabilita: 1.69210848076967E-5
+P P 1 P 1 P 2 2 P 2 con probabilita: 1.69210848076967E-5
+P P 1 P 1 2 P 2 P 2 con probabilita: 1.695135508463355E-5
+P P 1 P 1 2 2 2 P P con probabilita: 1.6951355084633545E-5
+P P 2 1 1 P 1 P P P con probabilita: 1.6942219885426756E-5
+P P 2 1 1 P P P P 1 con probabilita: 1.6942219885426756E-5
+P P 2 2 1 2 2 2 2 2 con probabilita: 1.691418106032514E-5
+P 2 1 1 P 1 P P P P con probabilita: 1.6903889071206335E-5
+P 2 P P 1 P 1 1 1 P con probabilita: 1.6901732962906447E-5
+P 2 P P 1 P P 1 1 1 con probabilita: 1.6901732962906443E-5
+2 1 1 1 P P P 2 1 2 con probabilita: 1.693997422339819E-5
+2 1 1 1 P P 2 2 1 P con probabilita: 1.693997422339819E-5
+2 1 1 1 P 2 P 2 1 P con probabilita: 1.697027829177636E-5
+2 1 1 P 1 2 2 1 1 2 con probabilita: 1.695291311359353E-5
+2 1 P 1 P 1 1 2 1 2 con probabilita: 1.6939974223398187E-5
+2 1 P 1 P 1 2 P 1 2 con probabilita: 1.6966035722203417E-5
+2 1 P 1 P 1 2 2 1 1 con probabilita: 1.6939974223398187E-5
+2 1 2 1 1 P 1 1 1 1 con probabilita: 1.6917749767419964E-5
+2 1 2 P 1 1 2 2 P 2 con probabilita: 1.69210848076967E-5
+2 P 1 P 1 P 2 2 P 2 con probabilita: 1.69210848076967E-5
+2 P 1 P 1 2 P 2 P 2 con probabilita: 1.695135508463355E-5
+2 P 1 P 1 2 2 2 P P con probabilita: 1.6951355084633545E-5
+2 P 2 1 1 P 1 P P P con probabilita: 1.6942219885426756E-5
+2 P 2 1 1 P P P P 1 con probabilita: 1.6942219885426756E-5
+2 P 2 2 1 2 2 2 2 2 con probabilita: 1.691418106032514E-5
+2 2 1 1 P 1 P P P P con probabilita: 1.6903889071206335E-5
+2 2 P P 1 P 1 1 1 P con probabilita: 1.6901732962906447E-5
+2 2 P P 1 P P 1 1 1 con probabilita: 1.6901732962906443E-5
+
+Combinazione finale
+2 2 2 1 P 2 1 2 P 2
+Valore per PlanetWin: 99.09373531375306 (costNorm. 66.69887452307913)
+Valore per Betfair: 87.50144175466309 (costNorm. 60.25981811715694)

@@ -1,23 +1,159 @@
 [
 	{
-		"evento": "Empoli - Verona",
+		"evento": "Frosinone - Atalanta",
 		"quote": [
 			{
 				"esito": "1",
-				"quota": 2.3
+				"quota": 5
 			},
 			{
 				"esito": "P",
-				"quota": 3
+				"quota": 4
 			},
 			{
 				"esito": "2",
-				"quota": 3
+				"quota": 1.65
 			} 
 		]
 	},
 	{
-		"evento": "Frosinone - Napoli",
+		"evento": "Monza - Empoli",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.85
+			},
+			{
+				"esito": "P",
+				"quota": 3.5
+			},
+			{
+				"esito": "2",
+				"quota": 4
+			} 
+		]
+	},
+	{
+		"evento": "Verona - Roma",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 5
+			},
+			{
+				"esito": "P",
+				"quota": 3.25
+			},
+			{
+				"esito": "2",
+				"quota": 1.7
+			}
+		]
+	},
+	{
+		"evento": "Milan - Torino",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.72
+			},
+			{
+				"esito": "P",
+				"quota": 3.5
+			},
+			{
+				"esito": "2",
+				"quota": 5
+			}
+		]
+	},
+	{
+		"evento": "Fiorentina - Lecce",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.6
+			},
+			{
+				"esito": "P",
+				"quota": 3.75
+			},
+			{
+				"esito": "2",
+				"quota": 5.5
+			}
+		]
+	},
+	{
+		"evento": "Juventus - Bologna",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.48
+			},
+			{
+				"esito": "P",
+				"quota": 4
+			},
+			{
+				"esito": "2",
+				"quota": 6.5
+			}
+		]
+	},
+	{
+		"evento": "Napoli - Sassuolo",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.3
+			},
+			{
+				"esito": "P",
+				"quota": 5.5
+			},
+			{
+				"esito": "2",
+				"quota": 9
+			}
+		]
+	},
+	{
+		"evento": "Lazio - Genoa",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.5
+			},
+			{
+				"esito": "P",
+				"quota": 4
+			},
+			{
+				"esito": "2",
+				"quota": 6
+			}
+		]
+	},
+	{
+		"evento": "Salernitana - Udinese",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2.7
+			},
+			{
+				"esito": "P",
+				"quota": 3.25
+			},
+			{
+				"esito": "2",
+				"quota": 2.62
+			}
+		]
+	},
+	{
+		"evento": "Cagliari - Inter",
 		"quote": [
 			{
 				"esito": "1",
@@ -25,147 +161,11 @@
 			},
 			{
 				"esito": "P",
-				"quota": 4.5
-			},
-			{
-				"esito": "2",
-				"quota": 1.4
-			} 
-		]
-	},
-	{
-		"evento": "Genoa - Fiorentina",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 3
-			},
-			{
-				"esito": "P",
-				"quota": 3.25
-			},
-			{
-				"esito": "2",
-				"quota": 2.25
-			}
-		]
-	},
-	{
-		"evento": "Inter - Monza",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 1.34
-			},
-			{
-				"esito": "P",
-				"quota": 5
-			},
-			{
-				"esito": "2",
-				"quota": 8
-			}
-		]
-	},
-	{
-		"evento": "Roma - Salernitana",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 1.4
-			},
-			{
-				"esito": "P",
-				"quota": 4.25
-			},
-			{
-				"esito": "2",
-				"quota": 8
-			}
-		]
-	},
-	{
-		"evento": "Sassuolo - Atalanta",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 3
-			},
-			{
-				"esito": "P",
-				"quota": 3.5
-			},
-			{
-				"esito": "2",
-				"quota": 2.15
-			}
-		]
-	},
-	{
-		"evento": "Lecce - Lazio",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 3.5
-			},
-			{
-				"esito": "P",
-				"quota": 3.25
-			},
-			{
-				"esito": "2",
-				"quota": 2
-			}
-		]
-	},
-	{
-		"evento": "Udinese - Juventus",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 4
-			},
-			{
-				"esito": "P",
-				"quota": 3.25
-			},
-			{
-				"esito": "2",
-				"quota": 1.86
-			}
-		]
-	},
-	{
-		"evento": "Torino - Cagliari",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 1.7
-			},
-			{
-				"esito": "P",
-				"quota": 3.5
-			},
-			{
-				"esito": "2",
 				"quota": 4.75
-			}
-		]
-	},
-	{
-		"evento": "Bologna - Milan",
-		"quote": [
-			{
-				"esito": "1",
-				"quota": 3.5
-			},
-			{
-				"esito": "P",
-				"quota": 3.25
 			},
 			{
 				"esito": "2",
-				"quota": 2
+				"quota": 1.4
 			}
 		]
 	}

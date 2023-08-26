@@ -1,0 +1,34 @@
+2023-08-26 16:07:42
+Broker: Betfair
+Frosinone - Atalanta Monza - Empoli Verona - Roma Milan - Torino Fiorentina - Lecce Juventus - Bologna Napoli - Sassuolo Lazio - Genoa Salernitana - Udinese Cagliari - Inter
+1 1 1 2 1 1 2 2 P P
+1 2 1 1 1 2 2 1 1 1
+P 2 1 1 P 2 2 P 1 2
+2 P P 2 2 2 2 P 1 2
+2 P 2 1 2 P 2 2 P 1
+
+--- Con altro metodo ---
+
+Frosinone - Atalanta Monza - Empoli Verona - Roma Milan - Torino Fiorentina - Lecce Juventus - Bologna Napoli - Sassuolo Lazio - Genoa Salernitana - Udinese Cagliari - Inter
+1 1 1 1 P 1 1 P 1 P con probabilita: 1.6935380363990067E-5
+P 2 2 1 2 P 1 2 2 2 con probabilita: 1.6933427719011663E-5
+
+2023-08-26 16:13:14
+Broker: Planetwin
+Frosinone - Atalanta Monza - Empoli Verona - Roma Milan - Torino Fiorentina - Lecce Juventus - Bologna Napoli - Sassuolo Lazio - Genoa Salernitana - Udinese Cagliari - Inter
+1 P P 1 1 2 P 2 2 P
+1 2 P P 2 1 2 2 P 2
+P 1 P P P 2 2 2 1 2
+P P P 1 2 1 2 2 P P
+2 P P P 2 2 P 1 P 1
+2 P P P 2 2 2 2 2 2
+
+--- Con altro metodo ---
+
+Frosinone - Atalanta Monza - Empoli Verona - Roma Milan - Torino Fiorentina - Lecce Juventus - Bologna Napoli - Sassuolo Lazio - Genoa Salernitana - Udinese Cagliari - Inter
+1 1 1 1 P P 1 1 2 P con probabilita: 1.6932465024735444E-5
+1 1 2 P P 1 1 2 1 P con probabilita: 1.693553772994365E-5
+P 2 P 1 1 2 1 2 1 2 con probabilita: 1.6937559098536044E-5
+2 1 1 1 1 P 2 2 2 2 con probabilita: 1.69362985057143E-5
+2 1 P P 2 1 P P P 2 con probabilita: 1.6931817046024287E-5
+
