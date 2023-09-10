@@ -150,8 +150,8 @@ public class ProbabilitaLogic {
 			}
 		}
 		double mediana = t;
-		if(Constants.CHECK) {
-			CheckLogic.checkProb(Constants.TO_CHECK, prodotti, mean, mediana, standardDeviation, matches.size());
+		if(Constants.CHECK_COMB) {
+			CheckCombLogic.checkProb(Constants.COMB_TO_CHECK, prodotti, mean, mediana, standardDeviation, matches.size());
 			return;
 		}
 		System.out.println("Le combinazioni venute fuori sono:\n");

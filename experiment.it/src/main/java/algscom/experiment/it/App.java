@@ -27,7 +27,8 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import algscom.experiment.it.logic.CheckLogic;
+import algscom.experiment.it.logic.CheckCombLogic;
+import algscom.experiment.it.logic.CheckValLogic;
 import algscom.experiment.it.logic.ProbabilitaLogic;
 import algscom.experiment.it.model.Match;
 import algscom.experiment.it.model.Quota;
@@ -142,9 +143,13 @@ public class App {
 			mediana = datiDouble[index];
 		}
 		System.out.println("Mediana: " + mediana + "\n");
-		if(Constants.CHECK) {
-			CheckLogic.check(Constants.TO_CHECK, prodotti, media, mediana, deviazioneStandard, matches.size());
+		if(Constants.CHECK_COMB) {
+			CheckCombLogic.check(Constants.COMB_TO_CHECK, prodotti, media, mediana, deviazioneStandard, matches.size());
 			ProbabilitaLogic.conProbabilita(matches, costNorm);
+			return;
+		}
+		if(Constants.CHECK_VAL) {
+			CheckValLogic.check(Constants.VAL_TO_CHECK, prodotti, min);
 			return;
 		}
 		// Calcolo e stampo le combinazioni

@@ -1,13 +1,10 @@
 package algscom.experiment.it.logic;
 
-import java.util.Collection;
-import java.util.List;
 import java.util.Map;
 
-import algscom.experiment.it.model.QuotaConProb;
 import algscom.experiment.it.model.QuotaProb;
 
-public class CheckLogic {
+public class CheckCombLogic {
 
 	public static void check(String toCheck, Map<String, Double> prodotti, Double media, Double mediana, Double deviazioneStd, int size) {
 		System.out.println("Check");

@@ -1,0 +1,70 @@
+2023-09-01 18:59:23
+Broker: Betfair
+Sassuolo - Verona Roma - Milan Udinese - Frosinone Bologna - Cagliari Atalanta - Monza Napoli - Lazio Inter - Fiorentina Torino - Genoa Lecce - Salernitana Empoli - Juventus
+1 1 1 P P P P 2 P 1
+1 1 1 P P P 2 P P 1
+1 1 1 P P 2 P 2 P P
+1 1 1 P P 2 2 P P P
+1 1 1 P 2 P P P P 1
+1 1 1 P 2 2 P P P P
+1 1 P P 1 P 2 2 P 1
+1 1 P P 1 2 2 2 P P
+1 1 P P P P 2 1 P P
+1 1 P P 2 1 2 2 P P
+1 1 P P 2 P 1 2 P 1
+1 1 P P 2 P P 1 P P
+1 1 P P 2 P 2 2 P 2
+1 1 P P 2 2 1 2 P P
+1 2 P 1 2 P 2 2 P P
+P 2 1 P P P P P P P
+P 2 P P 1 P P 2 P P
+P 2 P P 1 P 2 P P P
+P 2 P P P P 1 2 P P
+P 2 P P 2 P 1 P P P
+2 2 P P P 1 P 1 2 1
+2 2 P P P 2 P 1 2 2
+
+--- Con altro metodo ---
+
+Sassuolo - Verona Roma - Milan Udinese - Frosinone Bologna - Cagliari Atalanta - Monza Napoli - Lazio Inter - Fiorentina Torino - Genoa Lecce - Salernitana Empoli - Juventus
+
+2023-09-01 18:59:59
+Broker: Planetwin
+Sassuolo - Verona Roma - Milan Udinese - Frosinone Bologna - Cagliari Atalanta - Monza Napoli - Lazio Inter - Fiorentina Torino - Genoa Lecce - Salernitana Empoli - Juventus
+1 1 2 P P 2 2 1 1 P
+1 P 1 P 2 2 2 2 1 P
+1 P 1 2 2 2 2 1 1 1
+1 P P 2 1 P P P P 1
+P 1 1 P 2 2 P P 2 2
+P 1 2 2 P 1 1 2 2 P
+P P 1 1 2 P P 2 2 P
+P P 2 1 P 1 2 2 2 P
+P 2 P 2 1 P P P 1 1
+2 1 1 2 P 1 P 2 2 P
+2 1 1 2 P P 1 2 2 P
+2 1 P P 2 P 2 P 1 2
+2 1 P 2 1 2 1 P P 1
+2 P 2 1 P 2 P 2 P 2
+2 2 1 2 P 2 1 P 2 P
+2 2 2 2 1 1 P 2 P 1
+2 2 2 2 1 P 1 2 P 1
+
+--- Con altro metodo ---
+
+Sassuolo - Verona Roma - Milan Udinese - Frosinone Bologna - Cagliari Atalanta - Monza Napoli - Lazio Inter - Fiorentina Torino - Genoa Lecce - Salernitana Empoli - Juventus
+1 P 1 1 P 2 P 2 P 2 con probabilita: 1.6935070247817684E-5
+1 2 1 P P P P 1 1 P con probabilita: 1.693506133322184E-5
+P 1 1 2 1 1 P P 1 1 con probabilita: 1.6940217454288473E-5
+P 1 2 1 1 P 2 1 2 2 con probabilita: 1.693256723816011E-5
+P P 1 1 1 P 2 P 1 1 con probabilita: 1.6931999299147023E-5
+P 2 1 1 P 2 P 2 1 2 con probabilita: 1.6937322322305413E-5
+P 2 1 1 2 P 2 1 P 2 con probabilita: 1.693796368751832E-5
+P 2 1 P P P 1 P 2 2 con probabilita: 1.693254915086107E-5
+2 1 P P 2 1 1 P P 2 con probabilita: 1.6941232002469908E-5
+2 P 1 1 2 1 1 2 2 1 con probabilita: 1.6942041538494796E-5
+2 P 1 1 2 1 2 P 1 P con probabilita: 1.6941530399230984E-5
+
+Combinazione finale:
+1 2 P 1 1 2 1 1 1 2
+Valore per Planetwin: 74.11450043263433 (costNorm. 42.18779330718391)
+Valore per Betfair: 61.49235120537601 (costNorm. 40.18775720164609)

@@ -32,3 +32,7 @@ P 2 P 1 1 2 1 2 1 2 con probabilita: 1.6937559098536044E-5
 2 1 1 1 1 P 2 2 2 2 con probabilita: 1.69362985057143E-5
 2 1 P P 2 1 P P P 2 con probabilita: 1.6931817046024287E-5
 
+Combinazione finale:
+1 1 1 1 P P 1 2 P 2
+Valore per PlanetWin: 133.44707211829524 (costNorm. 352.02790871961435)
+Valore per Betfair: 113.87510181818182 (costNorm. 371.88500228623684)

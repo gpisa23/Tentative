@@ -1,0 +1,172 @@
+[
+	{
+		"evento": "Sassuolo - Verona",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.95
+			},
+			{
+				"esito": "P",
+				"quota": 3.5
+			},
+			{
+				"esito": "2",
+				"quota": 3.75
+			} 
+		]
+	},
+	{
+		"evento": "Roma - Milan",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2.8
+			},
+			{
+				"esito": "P",
+				"quota": 3
+			},
+			{
+				"esito": "2",
+				"quota": 2.6
+			} 
+		]
+	},
+	{
+		"evento": "Udinese - Frosinone",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.75
+			},
+			{
+				"esito": "P",
+				"quota": 3.5
+			},
+			{
+				"esito": "2",
+				"quota": 4.5
+			}
+		]
+	},
+	{
+		"evento": "Bologna - Cagliari",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.7
+			},
+			{
+				"esito": "P",
+				"quota": 3.7
+			},
+			{
+				"esito": "2",
+				"quota": 5
+			}
+		]
+	},
+	{
+		"evento": "Atalanta - Monza",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.6
+			},
+			{
+				"esito": "P",
+				"quota": 4
+			},
+			{
+				"esito": "2",
+				"quota": 5
+			}
+		]
+	},
+	{
+		"evento": "Napoli - Lazio",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.6
+			},
+			{
+				"esito": "P",
+				"quota": 3.75
+			},
+			{
+				"esito": "2",
+				"quota": 5
+			}
+		]
+	},
+	{
+		"evento": "Inter - Fiorentina",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.6
+			},
+			{
+				"esito": "P",
+				"quota": 4
+			},
+			{
+				"esito": "2",
+				"quota": 5
+			}
+		]
+	},
+	{
+		"evento": "Torino - Genoa",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2
+			},
+			{
+				"esito": "P",
+				"quota": 3
+			},
+			{
+				"esito": "2",
+				"quota": 3.75
+			}
+		]
+	},
+	{
+		"evento": "Lecce - Salernitana",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2
+			},
+			{
+				"esito": "P",
+				"quota": 3.25
+			},
+			{
+				"esito": "2",
+				"quota": 4
+			}
+		]
+	},
+	{
+		"evento": "Empoli - Juventus",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 5
+			},
+			{
+				"esito": "P",
+				"quota": 3.75
+			},
+			{
+				"esito": "2",
+				"quota": 1.6
+			}
+		]
+	}
+]

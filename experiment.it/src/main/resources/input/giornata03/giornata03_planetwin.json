@@ -1,0 +1,172 @@
+[
+	{
+		"evento": "Sassuolo - Verona",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.97
+			},
+			{
+				"esito": "P",
+				"quota": 3.6
+			},
+			{
+				"esito": "2",
+				"quota": 3.63
+			} 
+		]
+	},
+	{
+		"evento": "Roma - Milan",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2.91
+			},
+			{
+				"esito": "P",
+				"quota": 2.95
+			},
+			{
+				"esito": "2",
+				"quota": 2.65
+			} 
+		]
+	},
+	{
+		"evento": "Udinese - Frosinone",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.79
+			},
+			{
+				"esito": "P",
+				"quota": 3.65
+			},
+			{
+				"esito": "2",
+				"quota": 4.4
+			}
+		]
+	},
+	{
+		"evento": "Bologna - Cagliari",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.7
+			},
+			{
+				"esito": "P",
+				"quota": 3.55
+			},
+			{
+				"esito": "2",
+				"quota": 5.25
+			}
+		]
+	},
+	{
+		"evento": "Atalanta - Monza",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.62
+			},
+			{
+				"esito": "P",
+				"quota": 4.05
+			},
+			{
+				"esito": "2",
+				"quota": 5.1
+			}
+		]
+	},
+	{
+		"evento": "Napoli - Lazio",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.62
+			},
+			{
+				"esito": "P",
+				"quota": 3.95
+			},
+			{
+				"esito": "2",
+				"quota": 5.3
+			}
+		]
+	},
+	{
+		"evento": "Inter - Fiorentina",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 1.64
+			},
+			{
+				"esito": "P",
+				"quota": 4
+			},
+			{
+				"esito": "2",
+				"quota": 5
+			}
+		]
+	},
+	{
+		"evento": "Torino - Genoa",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2.03
+			},
+			{
+				"esito": "P",
+				"quota": 3.2
+			},
+			{
+				"esito": "2",
+				"quota": 3.91
+			}
+		]
+	},
+	{
+		"evento": "Lecce - Salernitana",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 2.01
+			},
+			{
+				"esito": "P",
+				"quota": 3.3
+			},
+			{
+				"esito": "2",
+				"quota": 3.85
+			}
+		]
+	},
+	{
+		"evento": "Empoli - Juventus",
+		"quote": [
+			{
+				"esito": "1",
+				"quota": 4.95
+			},
+			{
+				"esito": "P",
+				"quota": 3.8
+			},
+			{
+				"esito": "2",
+				"quota": 1.68
+			}
+		]
+	}
+]
